@@ -168,7 +168,7 @@ dmypy.json
 .history
 
 # End of https://www.gitignore.io/api/macos,python,visualstudiocode
-.npy
-.vscode
-.pkl
+*.npy
+*.vscode
+*.pkl
 output.csv
